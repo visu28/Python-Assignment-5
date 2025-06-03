@@ -1,5 +1,6 @@
 # Python-Assignment-5
 Python Program Documentation
+
 Program 1: Student Grade Lookup System (file1.py)
 Description
 A simple console application to look up student grades from a predefined dictionary.
@@ -31,6 +32,12 @@ Sample Usage
 shell
 Please enter the student's name: Charlie
 Charlie's marks: 92
+
+
+
+
+
+
 Program 2: List Operations Demonstrator (file2.py)
 Description
 Demonstrates basic list operations including slicing and reversal.
